@@ -1,1 +1,2 @@
 A quick brown fox jumped over the lazy dog.
+But the lazy dog was smart.
